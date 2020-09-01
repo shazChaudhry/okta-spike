@@ -1,5 +1,5 @@
-# Objectives
-
+# Objectives _(WIP)_
+Integrate Okta with various cloud services such as Jenkins and AWS
 
 ## What is Okta?
 It's an enterprise-grade, identity management service, built for the cloud, but compatible with many on-premises applications. With Okta, IT can manage any employee's access to any application or device. Okta runs in the cloud, on a secure, reliable, extensively audited platform, which integrates deeply with on-premises applications, directories, and identity management systems.
