@@ -20,11 +20,9 @@ You can read all above Okta and what it does [here](https://support.okta.com/hel
 - Follow Okta-Jenkins-integration configurations described in this doc: [SAML Authentication with Okta SSO and users groups](https://rtfm.co.ua/en/jenkins-saml-authentication-via-okta-and-users-groups/#Okta_Community_Created_Jenkins_SAML_application)
 
 ## AWS integration with Okta
-- Not tried yet but this document might of of help: https://help.okta.com/en/prod/Content/Topics/DeploymentGuides/AWS/aws-deployment.htm
-- Not tried this dock either but might be of help: [How to Configure SAML 2.0 for AWS Account Federation](https://saml-doc.okta.com/SAML_Docs/How-to-Configure-SAML-2.0-for-Amazon-Web-Service#:~:text=IdP%2Dinitiated%20SSO-,Overview,and%20assign%20those%20to%20users.)
-
-## AWS integration with Okta
 - Instructions to come soon ...
+- Not tried yet but this document might of of help: https://help.okta.com/en/prod/Content/Topics/DeploymentGuides/AWS/aws-deployment.htm
+- Not tried this doc either but might be of help: [How to Configure SAML 2.0 for AWS Account Federation](https://saml-doc.okta.com/SAML_Docs/How-to-Configure-SAML-2.0-for-Amazon-Web-Service#:~:text=IdP%2Dinitiated%20SSO-,Overview,and%20assign%20those%20to%20users.)
 
 ## References
 - Okta website - https://www.okta.com/
